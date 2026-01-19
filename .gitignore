@@ -1,0 +1,36 @@
+
+# --- IDEs (IntelliJ IDEA & DataGrip) ---
+.idea/
+*.iml
+out/
+gen/
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/shelf/
+.idea/vcs.xml
+
+# --- MongoDB Specific ---
+# Ignorar archivos de datos locales si corres MongoDB en tu PC
+data/db/
+*.log
+*.err
+
+# --- MongoDB Compass ---
+# Compass no suele guardar archivos dentro de la carpeta del proyecto, 
+# pero por seguridad ignoramos archivos de exportación accidentales.
+*.json
+*.csv
+# (Nota: Solo ignora .json/.csv si no son archivos que quieres subir como semillas de datos)
+
+# --- Environment Variables (CRÍTICO) ---
+# Aquí es donde sueles guardar tu "Connection String" de MongoDB Atlas
+.env
+.env.local
+.env.stack
+
+# --- Java Compilation ---
+*.class
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
