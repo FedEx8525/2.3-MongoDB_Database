@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "6964cd4f58820820f74a7dca"
+  },
+  "Brand": "Ray-Ban",
+  "Frame": "metallic",
+  "Provider": "Luxottica",
+  "Price": 145,
+  "Bought_by": [
+    {
+      "Name": {
+        "Name": "Marcos",
+        "First_surname": "Rodriguez",
+        "Second_surname": "Torres"
+      },
+      "Address": {
+        "Street": "Calle de Marcos",
+        "Number": 134,
+        "Floor": 1,
+        "Door": 1,
+        "Zip_code": "08024",
+        "City": "Barcelona"
+      },
+      "Telephone": 900111111,
+      "Email": "marcos@gmail.com",
+      "Registration_date": "15-12-2025"
+    },
+    {
+      "Name": {
+        "Name": "Carlos",
+        "First_surname": "Marquez",
+        "Second_surname": "Gomez"
+      },
+      "Address": {
+        "Street": "Calle de Carlos",
+        "Number": 25,
+        "Floor": null,
+        "Door": null,
+        "Zip_code": "08012",
+        "City": "Barcelona"
+      },
+      "Telephone": 900826862,
+      "Email": "carlos@gmail.com",
+      "Registration_date": "15-12-2025"
+    },
+    {
+      "Name": {
+        "Name": "Sebastian",
+        "First_surname": "Cantor",
+        "Second_surname": "Muñoz"
+      },
+      "Address": {
+        "Street": "Calle de Sebastian",
+        "Number": 53,
+        "Floor": 3,
+        "Door": 4,
+        "Zip_code": "08030",
+        "City": "Barcelona"
+      },
+      "Telephone": 900456789,
+      "Email": "sebastian@gmail.com",
+      "Registration_date": "12-12-2025"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6964ce4758820820f74a7dcc"
+  },
+  "Brand": "Lindberg",
+  "Frame": "floating",
+  "Provider": "Marcolín",
+  "Price": 450,
+  "Bought_by": [
+    {
+      "Name": {
+        "Name": "Marcos",
+        "First_surname": "Rodriguez",
+        "Second_surname": "Torres"
+      },
+      "Address": {
+        "Street": "Calle de Marcos",
+        "Number": 134,
+        "Floor": 1,
+        "Door": 1,
+        "Zip_code": "08024",
+        "City": "Barcelona"
+      },
+      "Telephone": 900111111,
+      "Email": "marcos@gmail.com",
+      "Registration_date": "15-12-2025"
+    },
+    {
+      "Name": {
+        "Name": "Maria",
+        "First_surname": "Pastor",
+        "Second_surname": "Romero"
+      },
+      "Address": {
+        "Street": "Calle de Maria",
+        "Number": 90,
+        "Floor": null,
+        "Door": null,
+        "Zip_code": "08019",
+        "City": "Barcelona"
+      },
+      "Telephone": 900446677,
+      "Email": "maria@gmail.com",
+      "Registration_date": "15-12-2025"
+    }
+  ]
+}]
