@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "6964bd0658820820f74a7dbe"
+  },
+  "Name": {
+    "Name": "Carlos",
+    "First_surname": "Marquez",
+    "Second_surname": "Gomez"
+  },
+  "Data": {
+    "Address": {
+      "Street": "Calle de Carlos",
+      "Number": 25,
+      "Floor": null,
+      "Door": null,
+      "City": "Barcelona",
+      "Zip_code": "08024",
+      "Country": "Spain"
+    },
+    "Telephone": 900866862,
+    "Email": "carlos@gmail.com",
+    "Register_date": "2025-12-15"
+  },
+  "Last_shoppings": {
+    "Brand": "Oakley",
+    "Graduation_lens": {
+      "Left_lens": 0,
+      "Right_lens": 0
+    },
+    "Color_lens": {
+      "Left_lens": "Prizm sapphire",
+      "Right_lens": "Prizm sapphire"
+    },
+    "Mount_type": "plastic",
+    "Price": 160
+  }
+},
+{
+  "_id": {
+    "$oid": "6964c32758820820f74a7dc2"
+  },
+  "Name": {
+    "Name": "Marcos",
+    "First_surname": "Rodriguez",
+    "Second_surname": "Torres"
+  },
+  "Data": {
+    "Address": {
+      "Street": "Calle de Marcos",
+      "Number": 134,
+      "Floor": 1,
+      "Door": 1,
+      "City": "Barcelona",
+      "Zip_code": "08024",
+      "Country": "Spain"
+    },
+    "Telephone": 900111111,
+    "Email": "marcos@gmail.com",
+    "Register_date": "2025-12-15"
+  },
+  "Last_shoppings": [
+    {
+      "Brand": "Ray-Ban",
+      "Graduation_lens": {
+        "Left_lens": -1.25,
+        "Right_lens": -1.5
+      },
+      "Color_lens": {
+        "Left_lens": "Green G-15",
+        "Right_lens": "Green G-15"
+      },
+      "Mount_type": "metal",
+      "Price": 145
+    },
+    {
+      "Brand": "Lindberg",
+      "Graduation_lens": {
+        "Left_lens": -1,
+        "Right_lens": -1.5
+      },
+      "Color_lens": {
+        "Left_lens": "Transparent",
+        "Right_lens": "Transparent"
+      },
+      "Mount_type": "floating",
+      "Price": 450
+    }
+  ]
+}]
