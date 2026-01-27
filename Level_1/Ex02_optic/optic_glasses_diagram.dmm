@@ -510,10 +510,8 @@
 			"child": "89f0dcae-e6c6-4fb0-a77e-89ee45958dec",
 			"parentTableColId": "2c56165c-e3d0-4260-b652-da78d595d1aa",
 			"childTableColId": "",
-			"lineColor": "transparent",
 			"markerStart": "diamondStart",
 			"markerEnd": "arrowEnd",
-			"linegraphics": "default",
 			"generate": true,
 			"code": "",
 			"caption": ""
@@ -527,10 +525,8 @@
 			"child": "3034e830-271e-4ee9-bcae-5310a18a5276",
 			"parentTableColId": "8266be7e-0666-4d39-b0b2-796f92c015fc",
 			"childTableColId": "",
-			"lineColor": "transparent",
 			"markerStart": "diamondStart",
 			"markerEnd": "arrowEnd",
-			"linegraphics": "default",
 			"generate": true,
 			"code": "",
 			"caption": ""
@@ -544,10 +540,8 @@
 			"child": "40736019-efff-4c2a-b0f4-18707e0c58c3",
 			"parentTableColId": "b796b5c4-2726-4276-8e2d-d97e38c74992",
 			"childTableColId": "",
-			"lineColor": "transparent",
 			"markerStart": "diamondStart",
 			"markerEnd": "arrowEnd",
-			"linegraphics": "default",
 			"generate": true,
 			"code": "",
 			"caption": ""
@@ -573,14 +567,14 @@
 			"extra": 0
 		},
 		"laststoredin": {
-			"major": 11,
-			"minor": 1,
+			"major": 12,
+			"minor": 0,
 			"extra": 0
 		},
 		"def_collation": "",
 		"def_coltopk": true,
 		"def_others": "",
-		"lastSaved": "",
+		"lastSaved": 1768843502541,
 		"writeFileParam": false,
 		"authorName": "",
 		"companyDetails": "",
@@ -588,7 +582,9 @@
 		"def_validationAction": "na",
 		"def_validationLevel": "na",
 		"connectionId": "6c36cb5e-632e-4f61-8791-cd2a26748623",
-		"connectionVersion": "8.2.3"
+		"connectionVersion": "8.2.3",
+		"appName": "",
+		"subType": ""
 	},
 	"otherObjects": {},
 	"diagrams": {
@@ -608,11 +604,21 @@
 					"resized": false,
 					"autoExpand": true,
 					"backgroundOpacity": "10",
-					"collapsed": false
+					"collapsed": false,
+					"borderColor": "#999999",
+					"borderStyle": "none",
+					"borderWidth": 2,
+					"assetAspectRatio": "none",
+					"assetTextPosition": "right",
+					"assetShowText": true,
+					"areaHeaderDisplayed": true,
+					"areaHeaderColor": "transparent",
+					"areaHeaderBackground": "transparent",
+					"cardBackground": "transparent"
 				},
 				"3034e830-271e-4ee9-bcae-5310a18a5276": {
-					"x": 965,
-					"y": 275,
+					"x": 924,
+					"y": 274,
 					"gHeight": 81,
 					"gWidth": 237,
 					"background": "transparent",
@@ -621,7 +627,17 @@
 					"resized": false,
 					"autoExpand": true,
 					"backgroundOpacity": "10",
-					"collapsed": false
+					"collapsed": false,
+					"borderColor": "#999999",
+					"borderStyle": "none",
+					"borderWidth": 2,
+					"assetAspectRatio": "none",
+					"assetTextPosition": "right",
+					"assetShowText": true,
+					"areaHeaderDisplayed": true,
+					"areaHeaderColor": "transparent",
+					"areaHeaderBackground": "transparent",
+					"cardBackground": "transparent"
 				},
 				"40736019-efff-4c2a-b0f4-18707e0c58c3": {
 					"x": 965,
@@ -634,7 +650,17 @@
 					"resized": false,
 					"autoExpand": true,
 					"backgroundOpacity": "10",
-					"collapsed": false
+					"collapsed": false,
+					"borderColor": "#999999",
+					"borderStyle": "none",
+					"borderWidth": 2,
+					"assetAspectRatio": "none",
+					"assetTextPosition": "right",
+					"assetShowText": true,
+					"areaHeaderDisplayed": true,
+					"areaHeaderColor": "transparent",
+					"areaHeaderBackground": "transparent",
+					"cardBackground": "transparent"
 				},
 				"89f0dcae-e6c6-4fb0-a77e-89ee45958dec": {
 					"x": 547,
@@ -647,7 +673,17 @@
 					"resized": false,
 					"autoExpand": true,
 					"backgroundOpacity": "10",
-					"collapsed": false
+					"collapsed": false,
+					"borderColor": "#999999",
+					"borderStyle": "none",
+					"borderWidth": 2,
+					"assetAspectRatio": "none",
+					"assetTextPosition": "right",
+					"assetShowText": true,
+					"areaHeaderDisplayed": true,
+					"areaHeaderColor": "transparent",
+					"areaHeaderBackground": "transparent",
+					"cardBackground": "transparent"
 				}
 			},
 			"isOpen": true,
@@ -694,7 +730,39 @@
 			"showCustomizations": false,
 			"showExportDimensions": false,
 			"showCompleted": true,
-			"showAnimations": true
+			"showAnimations": true,
+			"diagramLinks": {
+				"478bb4a0-f079-474b-8e75-d73424292c0e": {
+					"referencedItemId": "478bb4a0-f079-474b-8e75-d73424292c0e",
+					"color": "transparent",
+					"mode": "default",
+					"anchorStart": "default",
+					"anchorEnd": "default",
+					"anchorDetailedStart": "default",
+					"anchorDetailedEnd": "default",
+					"width": 2
+				},
+				"4c95a02e-4d45-4fcc-a362-20d3a87f7265": {
+					"referencedItemId": "4c95a02e-4d45-4fcc-a362-20d3a87f7265",
+					"color": "transparent",
+					"mode": "default",
+					"anchorStart": "default",
+					"anchorEnd": "default",
+					"anchorDetailedStart": "default",
+					"anchorDetailedEnd": "default",
+					"width": 2
+				},
+				"49990ed5-efd7-40d0-90b3-0fe47efb1ed9": {
+					"referencedItemId": "49990ed5-efd7-40d0-90b3-0fe47efb1ed9",
+					"color": "transparent",
+					"mode": "default",
+					"anchorStart": "default",
+					"anchorEnd": "default",
+					"anchorDetailedStart": "default",
+					"anchorDetailedEnd": "default",
+					"width": 2
+				}
+			}
 		}
 	},
 	"diagramsOrder": [],
