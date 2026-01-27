@@ -737,10 +737,8 @@
 			"child": "483cfbe9-0cb5-4bff-869b-aff3a6ee2f56",
 			"parentTableColId": "b04eab6e-e768-4df2-aa07-000d3d82146c",
 			"childTableColId": "",
-			"lineColor": "transparent",
 			"markerStart": "diamondStart",
 			"markerEnd": "arrowEnd",
-			"linegraphics": "default",
 			"generate": true,
 			"code": "",
 			"caption": ""
@@ -754,10 +752,8 @@
 			"child": "db3aaf3c-3d4f-4160-8f0f-9644c4864cd6",
 			"parentTableColId": "fe4b6cc6-3fb1-48d0-86bc-fa4efef41eee",
 			"childTableColId": "",
-			"lineColor": "transparent",
 			"markerStart": "diamondStart",
 			"markerEnd": "arrowEnd",
-			"linegraphics": "default",
 			"generate": true,
 			"code": "",
 			"caption": ""
@@ -771,10 +767,8 @@
 			"child": "373b32e3-9fdb-416e-9055-e9b1c95c2391",
 			"parentTableColId": "b2875e18-a32e-4f9d-8cbe-1260ea84deef",
 			"childTableColId": "",
-			"lineColor": "transparent",
 			"markerStart": "diamondStart",
 			"markerEnd": "arrowEnd",
-			"linegraphics": "default",
 			"generate": true,
 			"code": "",
 			"caption": ""
@@ -788,10 +782,8 @@
 			"child": "193ba926-f643-4d8c-b80d-4c2af029b5ff",
 			"parentTableColId": "da88f634-1bb4-43fd-8770-60819a1e17c2",
 			"childTableColId": "",
-			"lineColor": "transparent",
 			"markerStart": "diamondStart",
 			"markerEnd": "arrowEnd",
-			"linegraphics": "default",
 			"generate": true,
 			"code": "",
 			"caption": ""
@@ -805,10 +797,8 @@
 			"child": "f476329f-95f7-48e3-b6df-a629238c4490",
 			"parentTableColId": "7daf80d0-9c07-4629-94e4-2a9b9b712f91",
 			"childTableColId": "",
-			"lineColor": "transparent",
 			"markerStart": "diamondStart",
 			"markerEnd": "arrowEnd",
-			"linegraphics": "default",
 			"generate": true,
 			"code": "",
 			"caption": ""
@@ -822,10 +812,8 @@
 			"child": "a4e64ea8-98a7-4125-b192-c0ebdeef9fb6",
 			"parentTableColId": "19c391e8-7534-468b-a084-a5a411ff3aee",
 			"childTableColId": "",
-			"lineColor": "transparent",
 			"markerStart": "diamondStart",
 			"markerEnd": "arrowEnd",
-			"linegraphics": "default",
 			"generate": true,
 			"code": "",
 			"caption": ""
@@ -851,14 +839,14 @@
 			"extra": 0
 		},
 		"laststoredin": {
-			"major": 11,
-			"minor": 1,
+			"major": 12,
+			"minor": 0,
 			"extra": 0
 		},
 		"def_collation": "",
 		"def_coltopk": true,
 		"def_others": "",
-		"lastSaved": "",
+		"lastSaved": 1768842965321,
 		"writeFileParam": false,
 		"authorName": "",
 		"companyDetails": "",
@@ -866,7 +854,9 @@
 		"def_validationAction": "na",
 		"def_validationLevel": "na",
 		"connectionId": "f04f9c92-c8a8-43b4-a022-cec633518eec",
-		"connectionVersion": "8.2.3"
+		"connectionVersion": "8.2.3",
+		"appName": "",
+		"subType": ""
 	},
 	"otherObjects": {},
 	"diagrams": {
@@ -886,7 +876,17 @@
 					"resized": false,
 					"autoExpand": true,
 					"backgroundOpacity": "10",
-					"collapsed": false
+					"collapsed": false,
+					"borderColor": "#999999",
+					"borderStyle": "none",
+					"borderWidth": 2,
+					"assetAspectRatio": "none",
+					"assetTextPosition": "right",
+					"assetShowText": true,
+					"areaHeaderDisplayed": true,
+					"areaHeaderColor": "transparent",
+					"areaHeaderBackground": "transparent",
+					"cardBackground": "transparent"
 				},
 				"483cfbe9-0cb5-4bff-869b-aff3a6ee2f56": {
 					"x": 582,
@@ -899,7 +899,17 @@
 					"resized": false,
 					"autoExpand": true,
 					"backgroundOpacity": "10",
-					"collapsed": false
+					"collapsed": false,
+					"borderColor": "#999999",
+					"borderStyle": "none",
+					"borderWidth": 2,
+					"assetAspectRatio": "none",
+					"assetTextPosition": "right",
+					"assetShowText": true,
+					"areaHeaderDisplayed": true,
+					"areaHeaderColor": "transparent",
+					"areaHeaderBackground": "transparent",
+					"cardBackground": "transparent"
 				},
 				"193ba926-f643-4d8c-b80d-4c2af029b5ff": {
 					"x": 972,
@@ -912,7 +922,17 @@
 					"resized": false,
 					"autoExpand": true,
 					"backgroundOpacity": "10",
-					"collapsed": false
+					"collapsed": false,
+					"borderColor": "#999999",
+					"borderStyle": "none",
+					"borderWidth": 2,
+					"assetAspectRatio": "none",
+					"assetTextPosition": "right",
+					"assetShowText": true,
+					"areaHeaderDisplayed": true,
+					"areaHeaderColor": "transparent",
+					"areaHeaderBackground": "transparent",
+					"cardBackground": "transparent"
 				},
 				"f476329f-95f7-48e3-b6df-a629238c4490": {
 					"x": 986,
@@ -925,7 +945,17 @@
 					"resized": false,
 					"autoExpand": true,
 					"backgroundOpacity": "10",
-					"collapsed": false
+					"collapsed": false,
+					"borderColor": "#999999",
+					"borderStyle": "none",
+					"borderWidth": 2,
+					"assetAspectRatio": "none",
+					"assetTextPosition": "right",
+					"assetShowText": true,
+					"areaHeaderDisplayed": true,
+					"areaHeaderColor": "transparent",
+					"areaHeaderBackground": "transparent",
+					"cardBackground": "transparent"
 				},
 				"a4e64ea8-98a7-4125-b192-c0ebdeef9fb6": {
 					"x": 986,
@@ -938,7 +968,17 @@
 					"resized": false,
 					"autoExpand": true,
 					"backgroundOpacity": "10",
-					"collapsed": false
+					"collapsed": false,
+					"borderColor": "#999999",
+					"borderStyle": "none",
+					"borderWidth": 2,
+					"assetAspectRatio": "none",
+					"assetTextPosition": "right",
+					"assetShowText": true,
+					"areaHeaderDisplayed": true,
+					"areaHeaderColor": "transparent",
+					"areaHeaderBackground": "transparent",
+					"cardBackground": "transparent"
 				},
 				"db3aaf3c-3d4f-4160-8f0f-9644c4864cd6": {
 					"x": 582,
@@ -951,7 +991,17 @@
 					"resized": false,
 					"autoExpand": true,
 					"backgroundOpacity": "10",
-					"collapsed": false
+					"collapsed": false,
+					"borderColor": "#999999",
+					"borderStyle": "none",
+					"borderWidth": 2,
+					"assetAspectRatio": "none",
+					"assetTextPosition": "right",
+					"assetShowText": true,
+					"areaHeaderDisplayed": true,
+					"areaHeaderColor": "transparent",
+					"areaHeaderBackground": "transparent",
+					"cardBackground": "transparent"
 				},
 				"373b32e3-9fdb-416e-9055-e9b1c95c2391": {
 					"x": 582,
@@ -964,7 +1014,17 @@
 					"resized": false,
 					"autoExpand": true,
 					"backgroundOpacity": "10",
-					"collapsed": false
+					"collapsed": false,
+					"borderColor": "#999999",
+					"borderStyle": "none",
+					"borderWidth": 2,
+					"assetAspectRatio": "none",
+					"assetTextPosition": "right",
+					"assetShowText": true,
+					"areaHeaderDisplayed": true,
+					"areaHeaderColor": "transparent",
+					"areaHeaderBackground": "transparent",
+					"cardBackground": "transparent"
 				}
 			},
 			"isOpen": true,
@@ -1011,7 +1071,69 @@
 			"showCustomizations": false,
 			"showExportDimensions": false,
 			"showCompleted": true,
-			"showAnimations": true
+			"showAnimations": true,
+			"diagramLinks": {
+				"b312735c-2d28-4310-8f4b-4eca49f40931": {
+					"referencedItemId": "b312735c-2d28-4310-8f4b-4eca49f40931",
+					"color": "transparent",
+					"mode": "default",
+					"anchorStart": "default",
+					"anchorEnd": "default",
+					"anchorDetailedStart": "default",
+					"anchorDetailedEnd": "default",
+					"width": 2
+				},
+				"d6061387-8af7-47cd-9ec0-9b1462d13196": {
+					"referencedItemId": "d6061387-8af7-47cd-9ec0-9b1462d13196",
+					"color": "transparent",
+					"mode": "default",
+					"anchorStart": "default",
+					"anchorEnd": "default",
+					"anchorDetailedStart": "default",
+					"anchorDetailedEnd": "default",
+					"width": 2
+				},
+				"e3ab1415-7261-4958-a7cc-162c55bf22b1": {
+					"referencedItemId": "e3ab1415-7261-4958-a7cc-162c55bf22b1",
+					"color": "transparent",
+					"mode": "default",
+					"anchorStart": "default",
+					"anchorEnd": "default",
+					"anchorDetailedStart": "default",
+					"anchorDetailedEnd": "default",
+					"width": 2
+				},
+				"1ddfdc2a-3c4b-4ac2-9bf4-eafe03147722": {
+					"referencedItemId": "1ddfdc2a-3c4b-4ac2-9bf4-eafe03147722",
+					"color": "transparent",
+					"mode": "default",
+					"anchorStart": "default",
+					"anchorEnd": "default",
+					"anchorDetailedStart": "default",
+					"anchorDetailedEnd": "default",
+					"width": 2
+				},
+				"2471e968-9cd8-48d4-90ea-ed4299979f1b": {
+					"referencedItemId": "2471e968-9cd8-48d4-90ea-ed4299979f1b",
+					"color": "transparent",
+					"mode": "default",
+					"anchorStart": "default",
+					"anchorEnd": "default",
+					"anchorDetailedStart": "default",
+					"anchorDetailedEnd": "default",
+					"width": 2
+				},
+				"8ecb831e-7d8a-4be7-8103-d867caddcc2d": {
+					"referencedItemId": "8ecb831e-7d8a-4be7-8103-d867caddcc2d",
+					"color": "transparent",
+					"mode": "default",
+					"anchorStart": "default",
+					"anchorEnd": "default",
+					"anchorDetailedStart": "default",
+					"anchorDetailedEnd": "default",
+					"width": 2
+				}
+			}
 		}
 	},
 	"diagramsOrder": [],
